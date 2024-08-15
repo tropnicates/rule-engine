@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 5000
+  },
+  "database": {
+    "uri": "mongodb+srv://kun9577:<Au6GiGI9dSz2uH1i>@cluster0.wvfcz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+  }
+}
