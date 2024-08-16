@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 
 <Link to="/rules">Go to Rules</Link>
 
-
 const Home = () => {
   return (
     <div className='home'>
